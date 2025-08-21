@@ -46,7 +46,7 @@ Upload job details, upload resumes, and instantly get **AI-powered ATS scores an
 
 ### Installation
 
-* git clone <your-repo-url>
+* git clone https://github.com/aniket8000/Ai_Resume_Analyzer.git
 * cd  folder
 * npm install
 
@@ -60,4 +60,15 @@ Upload job details, upload resumes, and instantly get **AI-powered ATS scores an
 
 * npm run build
 * npm run preview
+
+## Screenshots
+
+* Homepage
+![Homepage](/public/screenshots/homepage.png)
+
+* Upload Job Details & Resume
+![Upload Job](/public/screenshots/upload_resume.png)
+
+* AI - Powered Result
+![Result](/public/screenshots/AI-Powered-Result.png)
 
